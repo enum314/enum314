@@ -48,6 +48,12 @@ I am currently an ICT Senior High-school Student with almost 4 years of experien
 - Cyber Security
 - Data Structures & Algorithms
 
+
+
+### 📊 Github Stats
+![Stats Overview](https://raw.githubusercontent.com/enum314/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/enum314/github-stats-transparent/output/generated/languages.svg)
+
 ## Contact Me!
 - You can email me at `enum314@gmail.com`
 - For inquiries, join my discord server at https://discord.gg/cZ9CchapsQ
