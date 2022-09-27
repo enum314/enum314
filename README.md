@@ -55,7 +55,7 @@ I am currently an ICT Senior High-school Student with almost 4 years of experien
 ![Most Used Languages](https://raw.githubusercontent.com/enum314/github-stats-transparent/output/generated/languages.svg)
 
 ## Contact Me!
-- You can email me at `enum314@gmail.com`
+- You can email me at `business@enum314.codes`
 - For inquiries, join my discord server at https://discord.gg/cZ9CchapsQ
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=enum314)](https://git.io/streak-stats)
