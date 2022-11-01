@@ -9,5 +9,3 @@
 ## Contact Me!
 - You can email me at `business@enum314.codes`
 - For inquiries, join my discord server at https://discord.gg/cZ9CchapsQ
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=enum314)](https://git.io/streak-stats)
