@@ -8,7 +8,7 @@ I've also experimented with [`C++`] (and [`Java`]) and a bit of [`C#`] 😄
 
 ### Key Notes ✍️
 
-- Full Stack Web Developer (Self Taught)
+- Full Stack Web Developer & Systems Administrator (Self Taught)
 - Started coding since **2017**
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
@@ -21,18 +21,6 @@ Started experimenting with coding around **June of 2017** in the [`C++`] program
 Since **September of 2019**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to its much better coding experience), which is what I use daily now.
 
 I've also experimented with other languages (such as [`Java`], or [`C#`]), but so far my language of choice is still [`TypeScript`].
-
-## 🔭 Projects
-
-Here's a quick run down of some of the projects I'm working on:
-
-- 👯 [`sti-edos`](https://github.com/enum314/sti-edos) - a powerful school student violation & permit management system
-- 👯 [`tickety`](https://github.com/enum314/tickety) - a discord ticket bot (very simple lol)
-- 👯 [`blog`](https://github.com/enum314/blog) - a next.js blog website made with next.js, tailwind, typeScript, and prisma with markdown support
-
-> I tend to pick up a lot of projects as time passes, so this list is not exhaustive plus most of my really good projects are closed source! :sweat_smile:
-
-> You can see more by exploring [`my repositories`]
 
 ## ⚡ Technologies
 <p>
@@ -49,13 +37,10 @@ Here's a quick run down of some of the projects I'm working on:
       <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="discordjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="55" height="55"/>
       <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="55" height="55"/>
 </p>
 <p>
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="55" height="55"/> 
       <img src="https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png" alt="vercel" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/> 
@@ -65,7 +50,6 @@ Here's a quick run down of some of the projects I'm working on:
       <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" alt="letsencrypt" width="55" height="55"/>
 </p>
 <p>
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgre" width="55" height="55"/>
@@ -76,9 +60,6 @@ Here's a quick run down of some of the projects I'm working on:
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="55" height="55"/>  
-      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="55" height="55"/>  
-      <img src="https://img.utdstc.com/icon/af8/c23/af8c232af40e6bbb677b3439d7e0ff2f3b5069bf59a7b1ed34e15b9e36dfbb52:200" alt="capcut" width="55" height="55"/>  
 </p>
 
 ## 📫 How to reach me
