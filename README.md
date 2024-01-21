@@ -13,59 +13,9 @@ I've also experimented with [`C++`] (and [`Java`]) and a bit of [`C#`] 😄
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
 
-### 📚 Experience
-I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written!
-
-Started experimenting with coding around **June of 2017** in the [`C++`] programming language.
-
-Since **September of 2019**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to its much better coding experience), which is what I use daily now.
-
-I've also experimented with other languages (such as [`Java`], or [`C#`]), but so far my language of choice is still [`TypeScript`].
-
-## ⚡ Technologies
-<p>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg" alt="c++" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.computerhope.com/jargon/j/javascript.png" alt="javascript" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/>  
-      <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="55" height="55"/>  
-</p>
-<p>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>  
-      <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="discordjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
-      <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="55" height="55"/>
-</p>
-<p>
-      <img src="https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png" alt="vercel" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="55" height="55"/>  
-      <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" alt="letsencrypt" width="55" height="55"/>
-</p>
-<p>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgre" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
-</p>
-<p>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/>  
-</p>
-
 ## 📫 How to reach me
 You can reach out to me on a multitude of platforms! but I prefer reaching out to me on telegram 😄
 
-- [Telegram](https://t.me/enum314)
 - [Twitter](https://x.com/enum314)
 - [Discord](https://discord.gg/N5KAggfFMw)
 
