@@ -1,44 +1,36 @@
 # 👋 Hello, I'm iommi mandela fuentes ![](https://komarev.com/ghpvc/?username=enum314)
 
-## 🚀 What I'm Currently Focusing On
-- Full Stack Web Development
-- Discord App Development
-- Systems Administration / Systems Designing
-- DevOps Engineering / Cloud Engineering
+## 🚀 What I'm Building & Executing
+- 🔹 SaaS Development & Monetization – Rapidly deploying scalable, revenue-driven SaaS products.
+- 🔹 High-Performance Cloud & Security – Architecting secure, scalable systems for online businesses.
+- 🔹 Organic Growth & SEO – Leveraging SEO, content, and distribution to drive user acquisition.
 
-## 🛠 What I'm Also Skilled At
-- AI Prompt Engineering
-- Database Administration
-- SEO (Web Development Focus)
-- Video Editing
-- Copywriting
-- UI/UX Design & Product Design (Mostly UX)
-- Graphic Design
-- Minecraft Bedrock Addon Development
-- Minecraft Plugin Configuration
-- 3D Web Development (Three.js)
+## 🛠 What I Excel At
+- ✅ Full-Stack Engineering (Next.js, TypeScript, Prisma, PostgreSQL, Redis)
+- ✅ Security & Compliance for Online Businesses
+- ✅ DevOps & Scalable Infrastructure (Cloud, CI/CD, AWS S3/MinIO, Redis)
 
-## 🌟 What I'm Looking Forward To
-- Content Creation & Personal Branding
-- Community Management
-- Affiliate Marketing
-- AI SaaS Development
+## 🌟 What I'm Building Towards
+- 🚀 Monetizing SaaS & Automating Revenue Streams
+- 📢 Content Creation & Personal Branding (Sharing My Execution & Growth)
+- ⚡ Mastering Organic Marketing (SEO, Twitter, TikTok)
 
-## 📚 Experience
-I'm a self taught, full stack web developer, that went head first into coding and fell in love from the first lines of code I've written!
+## 📚 Experience & Execution  
+I’m a **full-stack developer and systems architect**, focused on **building, scaling, and monetizing SaaS products**. I started coding in **2017**, and over the years, I’ve evolved from experimenting to executing at a high level.  
 
-Started experimenting with coding around **June of 2017** in the [`C++`] programming language.
+- **2017 →** First exposure to coding in `C++`  
+- **2019 →** Shifted to JavaScript, then fully adopted `TypeScript` for better scalability  
+- **Now →** Developing high-performance SaaS, optimizing for security, compliance, and revenue  
 
-Since **September of 2019**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to its much better coding experience), which is what I use daily now.
+I also have experience with `Java` and `C#`, but my core stack is **Next.js, TypeScript, Prisma, PostgreSQL, Redis, and cloud infrastructure**.  
 
-I've also experimented with other languages (such as [`Java`], or [`C#`]), but so far my language of choice is still [`TypeScript`].
+## ✍️ Key Strengths & Principles  
+- ✅ **Full-Stack Web Development & Systems Architecture**  
+- ✅ **Security-First, Scalable SaaS Development**  
+- ✅ **Growth-Oriented Engineering (SEO, Performance, Automation)**  
+- ✅ **Execution Over Perfection – Shipping, Monetizing, and Scaling**  
 
-## Key Notes ✍️
-
-- Full Stack Web Developer & Systems Administrator (Self Taught)
-- Started coding since **2017**
-- Willing to learn new things all the time, and work in teams 😄
-- Always down to chat! Contact me on one of the platforms down below!
+💡 **I don’t just code—I build systems that generate impact and revenue.**  
 
 ## ⚡ Technologies
 <p>
