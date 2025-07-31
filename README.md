@@ -1,36 +1,29 @@
-# 👋 Hello, I'm iommi mandela fuentes ![](https://komarev.com/ghpvc/?username=enum314)
+# 👋 I'm Iommi Mandela Fuentes ![](https://komarev.com/ghpvc/?username=enum314)
 
-## 🚀 What I'm Building & Executing
-- 🔹 SaaS Development & Monetization – Rapidly deploying scalable, revenue-driven SaaS products.
-- 🔹 High-Performance Cloud & Security – Architecting secure, scalable systems for online businesses.
-- 🔹 Organic Growth & SEO – Leveraging SEO, content, and distribution to drive user acquisition.
+## 🧠 Building SaaS and Execution Systems
+I design and build SaaS products and internal systems focused on clarity, scale, and speed. My work combines product thinking, architecture, and execution.
 
-## 🛠 What I Excel At
-- ✅ Full-Stack Engineering (Next.js, TypeScript, Prisma, PostgreSQL, Redis)
-- ✅ Security & Compliance for Online Businesses
-- ✅ DevOps & Scalable Infrastructure (Cloud, CI/CD, AWS S3/MinIO, Redis)
+- ⚙️ Full-stack SaaS platforms with clean, scalable code
+- ☁️ Secure cloud infrastructure for modern web apps
+- 📈 Internal systems that improve focus, ops, and momentum
 
-## 🌟 What I'm Building Towards
-- 🚀 Monetizing SaaS & Automating Revenue Streams
-- 📢 Content Creation & Personal Branding (Sharing My Execution & Growth)
-- ⚡ Mastering Organic Marketing (SEO, Twitter, TikTok)
+## 🛠 Core Stack and Focus
+- **Stack**: Next.js, TypeScript, Prisma, PostgreSQL, Redis, MinIO
+- **Infra**: CI/CD, DevOps, security-first cloud architecture
+- **Strengths**: System design, product velocity, long-term maintainability
 
-## 📚 Experience & Execution  
-I’m a **full-stack developer and systems architect**, focused on **building, scaling, and monetizing SaaS products**. I started coding in **2017**, and over the years, I’ve evolved from experimenting to executing at a high level.  
+## 📚 Background
+- Started coding in `2017` with C++, shifted to full-stack JavaScript in `2019`
+- Now focused on building systems and products across multiple verticals
+- Projects are modular, composable, and built for operators who execute
 
-- **2017 →** First exposure to coding in `C++`  
-- **2019 →** Shifted to JavaScript, then fully adopted `TypeScript` for better scalability  
-- **Now →** Developing high-performance SaaS, optimizing for security, compliance, and revenue  
+## 🧭 Principles
+- Systems over scattered tools
+- Clarity over complexity
+- Shipping over stalling
+- Execution as a daily habit, not a one-time push
 
-I also have experience with `Java` and `C#`, but my core stack is **Next.js, TypeScript, Prisma, PostgreSQL, Redis, and cloud infrastructure**.  
-
-## ✍️ Key Strengths & Principles  
-- ✅ **Full-Stack Web Development & Systems Architecture**  
-- ✅ **Security-First, Scalable SaaS Development**  
-- ✅ **Growth-Oriented Engineering (SEO, Performance, Automation)**  
-- ✅ **Execution Over Perfection – Shipping, Monetizing, and Scaling**  
-
-💡 **I don’t just code—I build systems that generate impact and revenue.**  
+> I build software that helps you think, move, and scale with precision.
 
 ## ⚡ Technologies
 <p>
@@ -82,40 +75,8 @@ I also have experience with `Java` and `C#`, but my core stack is **Next.js, Typ
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.18.0/files/light/cursor.png" alt="cursor" width="55" height="55"/> 
 </p>
 
-## 👀 Quick Statistics
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=enum314&show_icons=true&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enum314&layout=compact&hide_border=true&hide=visual%20basic&count_private=true" />
-    </td>
-  </tr>
-</table>
-
-## Popular Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enum314&repo=sti-edos)](https://github.com/enum314/sti-edos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oadpoaw&repo=app-bot)](https://github.com/oadpoaw/app-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oadpoaw&repo=disclosure)](https://github.com/oadpoaw/disclosure)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oadpoaw&repo=unicron-bot)](https://github.com/oadpoaw/unicron-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oadpoaw&repo=amongusbot)](https://github.com/oadpoaw/amongusbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oadpoaw&repo=confessionbot)](https://github.com/oadpoaw/confessionbot)
-
 ## 💬 Let's Connect
 I'm always down for a conversation—whether it's coding, design, or creative ideas!
 
 - Discord: `@enum314`
-
-My Other GitHub accounts
-- [@oadpoaw](https://github.com/oadpoaw) (archive)
-- [@iommi-mandela](https://github.com/iommi-mandela) (work)
-
-[`TypeScript`]:          https://www.typescriptlang.org/
-[`Java`]:                https://adoptopenjdk.net/
-[`C++`]:                https://www.rust-lang.org/
-[`C#`]:                  https://docs.microsoft.com/en-us/dotnet/csharp/
-[`React`]:               https://reactjs.org/
-[`C++`]:             https://cplusplus.com/
-[`my repositories`]:     https://github.com/enum314?tab=repositories
+- Instagram: `@aomeyomi`
