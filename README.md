@@ -8,10 +8,10 @@ I design and build SaaS products and internal systems focused on clarity, scale,
 - 📈 Internal systems that improve focus, ops, and momentum
 
 ## 🛠 Core Stack and Focus
-- **Stack**: Next.js, TypeScript, Prisma, PostgreSQL, Redis, MinIO
+- **Stack**: Next.js, TypeScript, Prisma, PostgreSQL, Redis, AWS S3
 - **Infra**: CI/CD, DevOps, security-first cloud architecture
 - **Strengths**: System design, product velocity, long-term maintainability
-- 
+
 > I build software that helps you think, move, and scale with precision.
 
 ## 💬 Let's Connect
